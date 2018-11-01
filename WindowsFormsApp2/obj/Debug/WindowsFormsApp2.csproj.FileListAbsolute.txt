@@ -7,3 +7,4 @@ c:\users\aaa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFor
 c:\users\aaa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 c:\users\aaa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 c:\users\aaa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+c:\users\aaa\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
